@@ -1,0 +1,9 @@
+INSERT INTO clientes (nombre, email) VALUES
+('Carlos Ramírez', 'carlos.ramirez@example.com'),
+('Ana Torres', 'ana.torres@example.com'),
+('Luis Mendoza', 'luis.mendoza@example.com');
+
+INSERT INTO peliculas (titulo, genero, stock) VALUES
+('Inception', 'Ciencia Ficción', 10),
+('El Padrino', 'Drama', 5),
+('Toy Story', 'Animación', 8);
